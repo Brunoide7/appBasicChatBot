@@ -30,7 +30,7 @@ Esta es una aplicación básica de chatbot desarrollada con LangChain y Streamli
 git clone https://github.com/Brunoide7/appBasicChatBot.git
 cd appBasicChatBot
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run streamlit.py
 ```
 
 
